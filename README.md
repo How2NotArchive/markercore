@@ -1,2 +1,6 @@
-# markercore
-Encrypt your strings with embedded marker
+# Usage
+View all functions:
+```
+import markercore
+help(markercore)
+```
